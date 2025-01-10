@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "543975801065",
+    "project_id": "meaoteaapp-e481f",
+    "storage_bucket": "meaoteaapp-e481f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543975801065:android:078020114bf9ddd60b7078",
+        "android_client_info": {
+          "package_name": "com.example.meaotea"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA10E9SnCl8O_IfisqkniaE-2_trQCnukk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
